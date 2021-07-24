@@ -11,8 +11,7 @@
         <h3><?php the_title(); ?></h3>
         <?php the_content(); ?>
         
-        <?php na
-    }
+        <?php 
     
     get_footer();
 ?>
